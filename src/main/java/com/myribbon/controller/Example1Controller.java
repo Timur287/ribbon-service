@@ -12,6 +12,7 @@ import org.springframework.web.client.RestTemplate;
 import java.util.Arrays;
 import java.util.List;
 
+@CrossOrigin
 @RestController
 public class Example1Controller {
 
